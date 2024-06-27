@@ -1,1 +1,1 @@
-Github Java projeleri 
+Github Java projesi Calculator ( Hesap Makinesi )
